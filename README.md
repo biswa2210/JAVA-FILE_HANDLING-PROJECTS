@@ -1,4 +1,3 @@
-# JAVA-FILE_HANDLING-PROJECTS
 # StudentRecordSystem-FILE-HANDLING-JAVA :star_struck: :open_file_folder: :computer: :closed_book:
 
 [![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JDK-version%2016-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/file-handling-success)](https://shields.io/)
