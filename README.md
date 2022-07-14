@@ -67,45 +67,8 @@ If we want to exit the program we have to choose option 5. Then the program will
 We have used Idea Intellij Software for java. <br>
 </div>
 
-## Applications :point_down:
-
-<div align="justified">
- 
-1. Improves the General Performance Of Students <br>
-For students to come out with good grades, the focus is highly needed. With this school administration software, students are able to use their precious time for relevant things which is studying rather than keep track of their records to make sure things are intact. Moreover, fear of losing important records to manual management is completely off the line with the help of this software. <br>
-2. It helps Simply and Streamlines All Task <br>
-As a teacher, keeping track of all the activities done by each student is never easy and inefficient. But with this student record system, teachers are able to keep track of each student work and what is yet to be done. In most software, there is a dashboard and a single screen display to make things even easier and more efficient.
-3. Improved Communication <br>
-It's impossible for every student in a class to get each lesson passed across while teaching. This might be a problem on the path of the students being timid or reluctant at that point in time or insufficient time to ask questions. With the help of this software, that has been sorted out. Most online school management software now has an inbuilt discussion panel where students could easily communicate with their teachers and ask relevant questions. <br>
-4. Can Be Accessed by All Parties Involved <br>
-Gone are the days when parents know little to nothing about what their child or ward does at school. This open source school management system has made it possible for parents to have access to their children's school activities, assignments, attendance, and other relevant information just by using the software. <br>
-5. Efficient Management And Organization of Timetables <br>
-The management of a school timetable is the work of the admin department of a school. Despite being dedicated to a department, it never correlates. With this software, the reverse is the case. This student record system is able to organize school timetables in such a way that they won't be a clash of lectures. In addition to that, students, teachers, and parents have access to it. <br>
-6. Helps to Keep Track Of All Students <br>
-School activity goes beyond the wall of the classrooms. There are other activities like sports, interaction, and other extracurricular activities and all these needs proper documentation. This management software has features that see to that and make sure the record of each student is intact. <br>
-7. Reduction of Human Labour, Papers and Workload <br>
-The cost incurred from employing staff to manage the activities of a school is an additional cost that shouldn't be if you decide to make use of this new technology. With this student management system, your number of staffs, excessive buying of writing materials will be minimal and functionality will improve. <br>
-8. Provide A Means to Advice Students <br>
-The student management system has an advising module that helps facilitate student advising process. This is most effective when a particular student is having a draw down academically and advice is to be given by teachers. <br>
-9. Helps Build A Strong Alumni <br>
-There is more to life than the walls of the school. This same software has the ability to build an alumni network to help other students with job referrals. All this is made possible with the help of this software. <br>
-10. Improves the General Comfort Of Staffs <br>
-Work comfort is another factor that determines the performance of staff and this student management system have successfully put that in place. Teachers are able to manage their students in a smart way. <br>
+udents in a smart way. <br>
  </div>
-
-## Future Scopes :point_down:
-
-<div align="justified">
- 
-1.This student record system can be deployed in a online web portal for students and teachers. <br>
-2. One can upgrade this web portal to store subject video lectures under different professor names and also maintain the previous year’s question papers in it. <br>
-3.The portal can be used to take day to day attendance and automatically send an SMS to the students and their parent. <br>
-4. One can deploy this web application into mobile android application and be used in smaller devices like mobile phones, tablets and notepads. <br>
-5. In future web portal can be combined with the university internal and external web sites. So that all courses in the university will have single web app. <br>
-6. Students can directly fill a resume forum system will use artificial intelligence and sent the resume to companies as per student requirement and eligibility criteria. <br>
-7. The present system may be further upgraded in future even maintain the activities in hostel like hostel mess bill and attendance system even in hostels. <br>
-8. By using artificial intelligence the web portal may track the usage of Wi – Fi based on the students registered device. <br>
-</div>
 
 ## Folder Structure :point_down:
 
@@ -132,28 +95,24 @@ StudentRecordSystemFileHandlingJava
               └── STUDENT RECORD SYSTEM.iml
 ```
 
-<details>
-    <summary>
-        "To read about making this project click here"
-
-   </summary>
-
 ## Making :point_down:
 
 I have made this project using Java Programming Language. Here I have created the functionalities. Here the record is created in a record.txt file. When we delete or update a record then the older file get deleted and new file is created here. I have used Idea Inteelij for java.
-</details>
     
 ## Screenshots :point_down: 
 
 <div align="center">
 
-<a href="pics/sfj1.jpeg"><img src="pics/sfj1.jpeg" width="800" height= "500"></a>
+<a href="stu1.png"><img src="stu1.png" width="800" height= "500"></a>
 
-<a href="pics/sfj2.jpeg"><img src="pics/sfj2.jpeg" width="800" height= "500"></a>
-
-<a href="pics/sfj3.jpeg"><img src="pics/sfj3.jpeg" width="800" height= "500"></a>
-
-<a href="pics/sfj4.jpeg"><img src="pics/sfj4.jpeg" width="800" height= "500"></a>
+<a href="stu2.png"><img src="stu2.png" width="800" height= "500"></a>
+ 
+<a href="stu3.png"><img src="stu3.png" width="800" height= "500"></a>
+ 
+<a href="stu4.png"><img src="stu4.png" width="800" height= "500"></a>
+ 
+<a href="stu5.png"><img src="stu5.png" width="800" height= "500"></a>
+ 
 </div>
 
 
