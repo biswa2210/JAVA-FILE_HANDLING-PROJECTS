@@ -20,34 +20,7 @@
 
 <div align="justified">
  
-
-
-</div>
-
-## Purpose :point_down:
-
-<div align="justified">
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
- 
-
-</div>
-
-## Applications :point_down:
-
-<div align="justified">
- 
-
- </div>
-
-## Future Scopes :point_down:
-
-<div align="justified">
- 
+This is a Java file handling project. Here in the main menu there are options to add customer record, search record, all record and delete record. All these are needed in an car rental system. Details of car, time of rent etc are maintained.
 
 </div>
 
@@ -92,13 +65,15 @@ I have made this project using Java Programming Language. Here I have created th
 
 <div align="center">
 
-<a href="pics/sfj1.jpeg"><img src="pics/sfj1.jpeg" width="800" height= "500"></a>
+<a href="car1.png"><img src="car1.png" width="800" height= "500"></a>
 
-<a href="pics/sfj2.jpeg"><img src="pics/sfj2.jpeg" width="800" height= "500"></a>
+<a href="car2.png"><img src="car2.png" width="800" height= "500"></a>
 
-<a href="pics/sfj3.jpeg"><img src="pics/sfj3.jpeg" width="800" height= "500"></a>
+<a href="car3.png"><img src="car3.png" width="800" height= "500"></a>
 
-<a href="pics/sfj4.jpeg"><img src="pics/sfj4.jpeg" width="800" height= "500"></a>
+<a href="car4.png"><img src="car4.png" width="800" height= "500"></a>
+
+<a href="car5.png"><img src="car5.png" width="800" height= "500"></a>
 </div>
 
 
