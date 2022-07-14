@@ -20,34 +20,7 @@
 
 <div align="justified">
  
-
-
-</div>
-
-## Purpose :point_down:
-
-<div align="justified">
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
- 
-
-</div>
-
-## Applications :point_down:
-
-<div align="justified">
- 
-
- </div>
-
-## Future Scopes :point_down:
-
-<div align="justified">
- 
+This is a Java file handling project. Here in the main menu there are options to add customer record, search record, all record and delete record. All these are needed in an auto repair system.
 
 </div>
 
@@ -76,12 +49,6 @@ AutoRepairSystemFileHandlingJava
               └── AUTO REPAIR SYSTEM.iml
 ```
 
-<details>
-    <summary>
-        "To read about making this project click here"
-
-   </summary>
-
 ## Making :point_down:
 
 I have made this project using Java Programming Language. Here I have created the functionalities. Here the record is created in a record.txt file. When we delete or update a record then the older file get deleted and new file is created here. I have used Idea Inteelij for java.
@@ -92,13 +59,16 @@ I have made this project using Java Programming Language. Here I have created th
 
 <div align="center">
 
-<a href="pics/sfj1.jpeg"><img src="pics/sfj1.jpeg" width="800" height= "500"></a>
+<a href="auto1.png"><img src="auto1.png" width="800" height= "500"></a>
 
-<a href="pics/sfj2.jpeg"><img src="pics/sfj2.jpeg" width="800" height= "500"></a>
+<a href="auto2.png"><img src="auto2.png" width="800" height= "500"></a>
 
-<a href="pics/sfj3.jpeg"><img src="pics/sfj3.jpeg" width="800" height= "500"></a>
+<a href="auto3.png"><img src="auto3.png" width="800" height= "500"></a>
 
-<a href="pics/sfj4.jpeg"><img src="pics/sfj4.jpeg" width="800" height= "500"></a>
+<a href="auto4.png"><img src="auto4.png" width="800" height= "500"></a>
+
+<a href="auto5.png"><img src="auto5.png" width="800" height= "500"></a>
+
 </div>
 
 
