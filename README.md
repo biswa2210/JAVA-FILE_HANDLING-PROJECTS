@@ -20,34 +20,7 @@
 
 <div align="justified">
  
-
-
-</div>
-
-## Purpose :point_down:
-
-<div align="justified">
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
- 
-
-</div>
-
-## Applications :point_down:
-
-<div align="justified">
- 
-
- </div>
-
-## Future Scopes :point_down:
-
-<div align="justified">
- 
+This is a library management system using Java file handling. Here add books, borrow book, search book, search student etc fifferent options are present.
 
 </div>
 
