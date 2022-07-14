@@ -92,13 +92,24 @@ I have made this project using Java Programming Language. Here I have created th
 
 <div align="center">
 
-<a href="pics/sfj1.jpeg"><img src="pics/sfj1.jpeg" width="800" height= "500"></a>
+<a href="lib1.png"><img src="lib1.png" width="800" height= "500"></a>
 
-<a href="pics/sfj2.jpeg"><img src="pics/sfj2.jpeg" width="800" height= "500"></a>
+<a href="lib2.png"><img src="lib2.png" width="800" height= "500"></a>
 
-<a href="pics/sfj3.jpeg"><img src="pics/sfj3.jpeg" width="800" height= "500"></a>
+<a href="lib3.png"><img src="lib3.png" width="800" height= "500"></a>
 
-<a href="pics/sfj4.jpeg"><img src="pics/sfj4.jpeg" width="800" height= "500"></a>
+<a href="lib4.png"><img src="lib4.png" width="800" height= "500"></a>
+
+<a href="lib5.png"><img src="lib5.png" width="800" height= "500"></a>
+
+<a href="lib6.png"><img src="lib6.png" width="800" height= "500"></a>
+
+<a href="lib7.png"><img src="lib7.png" width="800" height= "500"></a>
+
+<a href="lib8.png"><img src="lib8.png" width="800" height= "500"></a>
+
+<a href="lib9.png"><img src="lib9.png" width="800" height= "500"></a>
+
 </div>
 
 
