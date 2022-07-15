@@ -24,6 +24,10 @@ This is a Java file handling project. Here in the main menu there are options to
 
 </div>
 
+## CAR RENTAL SYSTEM(File Handling) DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=owSPvkppOIk&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0&index=5">Click here to watch</a>
+
+## JAVA PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=bCoFqFb76Jc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0">Click here to watch</a>
+
 ## Folder Structure :point_down:
 
 ```bash
