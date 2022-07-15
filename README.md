@@ -24,6 +24,10 @@ A student information system (SIS), student management system, school administra
 
 </div>
 
+## STUDENT RECORD SYSTEM(File Handling) DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=KOHd8HYzung&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0&index=4">Click here to watch</a>
+
+## JAVA PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=bCoFqFb76Jc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0">Click here to watch</a>
+
 ## The Records Consist :point_down:
 
  - ADD STUDENT<br>
